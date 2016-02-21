@@ -1,6 +1,5 @@
 # PocketMine-File
-PocketMine Server File for lazy
-
+ClearSky for lazy people
 For Vietnam, my homeland
 
 Please do not changed any of my file here, I updated everytime
